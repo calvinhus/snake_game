@@ -1,1 +1,1 @@
-# snake_game
+# Snake Game with Hand Recognition
